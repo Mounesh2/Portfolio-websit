@@ -6,7 +6,7 @@ Live Portfolio 👉 [Mouneshsp.vercel.app](https://Mouneshsp.vercel.app/)
 
 ---
 
-![portfolio](https://github.com/user-attachments/assets/ee5640e4-b207-4246-8727-62dff663f13a)
+![portfolio]()
 
 
 ---
