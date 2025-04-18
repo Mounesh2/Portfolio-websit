@@ -75,14 +75,10 @@ const Contact = () => {
                 <span class="text-[var(--white)]">Gajendragad,gadag,India</span>{" "}
               </div>
               <div class="flex items-center gap-2 mt-2">
-  <span>Phone:</span>
-  <span class="text-[var(--white)]">+91 8884549804</span>
-</div>
-<div class="flex items-center gap-2 mt-2">
-  <span>Email:</span>
-  <a href="mailto:mouneshspattar0@gmail.com" class="text-[var(--white)] hover:underline">
-    mouneshspattar0@gmail.com
-  </a>
+             <span>Phone:</span>
+                   <span class="text-[var(--white)]">+91 8884549804</span>
+              </div>
+
               <div className="social-links flex gap-5 mt-5 text-lg">
                 <a
                   href="https://www.linkedin.com/in/mounesh-s-pattar-1b3221299"
@@ -137,7 +133,7 @@ const Contact = () => {
                     type="Email"
                     name="reply_to"
                     required
-                    placeholder="Email"
+                    placeholder="mouneshpattar0@gmail.com"
                     className="px-4 py-2 text-[var(--white)] border border-[var(--white-icon-tr)] rounded-lg focus:outline-none focus:ring-2 focus:ring-[#6A7282]"
                   />{" "}
                   <textarea
