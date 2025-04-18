@@ -71,7 +71,7 @@ export default function FirstSection() {
                     <div className="h-[500px] w-[400px] max-md:h-96 overflow-hidden rounded-b-full shadow-2xl">
                         <img
                             src={image}
-                            alt="Kartikay" loading="lazy" decoding="async"
+                            alt="Mounespsp" loading="lazy" decoding="async"
                             className="avtar h-full w-full aspect-[3/4] rounded-b-full object-cover transition duration-300 hover:scale-[1.02] grayscale hover:grayscale-0"
                         />
                     </div>

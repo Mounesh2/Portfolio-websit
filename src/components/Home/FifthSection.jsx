@@ -13,7 +13,7 @@ export default function FifthSection() {
                     <div className="flex justify-end">
                         <div className="max-w-lg">
                             <p className="text-gray-400 mb-5 text-balance">
-                                As a front-end developer, I use modern ideas, simplicity in design,
+                                As a fullstack developer, I use modern ideas, simplicity in design,
                                 and universal visual identification tailored to the dedicated and
                                 current market.
                             </p>
