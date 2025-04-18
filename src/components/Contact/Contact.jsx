@@ -74,6 +74,10 @@ const Contact = () => {
                 <span>Location:</span>{" "}
                 <span class="text-[var(--white)]">Gajendragad,gadag,India</span>{" "}
               </div>
+              <div class="flex items-center gap-2 mt-2">
+  <span>Phone:</span>
+  <span class="text-[var(--white)]">+91 8884549804</span>
+</div>
               <div className="social-links flex gap-5 mt-5 text-lg">
                 <a
                   href="https://www.linkedin.com/in/mounesh-s-pattar-1b3221299"
