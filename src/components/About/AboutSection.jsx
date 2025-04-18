@@ -36,7 +36,7 @@ const Page1 = () => {
             </h1>
             <div className='text-right'>
               <p ref={paraRef} className="text-balance sm:text-xl max-sm:text-start mb-10 max-md:ml-0 ml-40">
-                I'm <ShinyText text="Mounesh Pattar" disabled={false} speed={3} className='text-[#30AF5B]' />, a creative frontend developer dedicated to building visually appealing, user-friendly, and responsive web experiences. I focus to blend design and functionality to create seamless digital interactions.{" "}
+                I'm <ShinyText text="Mounesh Pattar" disabled={false} speed={3} className='text-[#30AF5B]' />, a creative Fullstack developer dedicated to building visually appealing, user-friendly, and responsive web experiences. I focus to blend design and functionality to create seamless digital interactions.{" "}
               </p>
 
               <a href="D:\Portfolio-main\public\Documents\Mounesh_s_Pattar_Resume (1).pdf" download={"Mounesh_S_Pattar_Resume (1).pdf "}>
