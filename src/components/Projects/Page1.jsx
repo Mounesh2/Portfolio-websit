@@ -34,7 +34,7 @@ const Page1 = () => {
       description:
         "Developed a pixel-perfect UI clone of Rejouice.com, featuring GSAP animations, scroll-trigger effects and Lenis smooth scrolling.",
       liveLink: "http://rejouiceui.vercel.app/",
-      codeLink: "https://github.com/Kartikaysharma2004/rejouice",
+      codeLink: "",
     },
     {
       id: 2,
@@ -78,7 +78,7 @@ const Page1 = () => {
             Projects
           </h3>
           <p class="mb-4 text-lg max-sm:text-sm">
-            Explore my projects—where design meets functionality.<br />Each one showcases my skills and passion for front-end development.
+            Explore my projects—where design meets functionality.<br />Each one showcases my skills and passion for fullstack development.
           </p>
         </div>
 
